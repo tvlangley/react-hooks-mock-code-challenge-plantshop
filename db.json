@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Forky",
+      "image": "https://insidethemagic-119e2.kxcdn.com/wp-content/uploads/2020/01/FORKY1.jpg",
+      "price": "4",
+      "id": 8
+    },
+    {
+      "name": "Sasuke",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fskystormkuja%2Fart%2FSasuke-Eating-Ramen-77752445&psig=AOvVaw3HCCpHgfCICttJiD3sTn2n&ust=1634920867925000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDL7v_42_MCFQAAAAAdAAAAABAD",
+      "price": "10",
+      "id": 9
+    },
+    {
+      "name": "Forky",
+      "image": "https://insidethemagic-119e2.kxcdn.com/wp-content/uploads/2020/01/FORKY1.jpg",
+      "price": "24",
+      "id": 10
     }
   ]
 }
